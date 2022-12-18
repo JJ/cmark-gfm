@@ -39,3 +39,6 @@ alltests.md
 progit/
 bench/benchinput.md
 test/afl_results/
+
+# Mac stuff
+.DS_Store
